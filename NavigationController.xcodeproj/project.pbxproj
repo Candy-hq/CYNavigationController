@@ -61,8 +61,7 @@
 		36600E57214F524B00940B0B /* NavigationController */ = {
 			isa = PBXGroup;
 			children = (
-				36600E6F214F525E00940B0B /* CYNavigationController.h */,
-				36600E6E214F525E00940B0B /* CYNavigationController.m */,
+				36600E71214F5BF500940B0B /* CYNavigationController */,
 				36600E58214F524B00940B0B /* AppDelegate.h */,
 				36600E59214F524B00940B0B /* AppDelegate.m */,
 				36600E5B214F524B00940B0B /* ViewController.h */,
@@ -74,6 +73,15 @@
 				36600E67214F524C00940B0B /* main.m */,
 			);
 			path = NavigationController;
+			sourceTree = "<group>";
+		};
+		36600E71214F5BF500940B0B /* CYNavigationController */ = {
+			isa = PBXGroup;
+			children = (
+				36600E6F214F525E00940B0B /* CYNavigationController.h */,
+				36600E6E214F525E00940B0B /* CYNavigationController.m */,
+			);
+			path = CYNavigationController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
